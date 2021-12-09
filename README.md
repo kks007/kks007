@@ -4,7 +4,7 @@
 <a href="https://instagram.com/kks__007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kks__007" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
