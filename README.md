@@ -20,4 +20,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kks007&show_icons=true&locale=en&layout=compact" alt="kks007" /></p>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/bhattcodes">
+    <img height="180em" src="https://kks007-readme-stats.vercel.app/api?username=kks007&theme=algolia&show_icons=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kks007&show_icons=true&locale=en&layout=compact&theme=algolia"/>
+</a>
+</p>
+
