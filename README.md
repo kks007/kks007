@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaushal Kishor Sharma</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/kks__007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kks__007" height="30" width="40" /></a>
-</p>
+<!-- ## 👋 &nbsp;Hey there! I'm Kaushal -->
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -28,4 +24,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kks007&show_icons=true&locale=en&layout=compact&theme=algolia"/>
 </a>
 </p>
+
 
