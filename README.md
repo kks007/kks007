@@ -28,7 +28,7 @@
 <p align="center">
 <a href="https://github.com/kks007">
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kks007&theme=algolia&show_icons=true&count_private=false&include_all_commits=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kks007&show_icons=true&locale=en&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kks007&show_icons=true&locale=en&layout=compact&theme=dracula"/>
 </a>
 </p>
 
