@@ -23,5 +23,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kks007&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) (https://github-readme-stats.vercel.app/api/top-langs/?username=kks007&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kks007&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kks007&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
