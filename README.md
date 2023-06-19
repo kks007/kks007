@@ -23,9 +23,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-1572B6?style=flat&logo=Arduino&logoColor=white)&nbsp;
 
 
-### ⚙️ &nbsp;GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kks007&show_icons=true&include_all_commits=true&theme=dracula)
- <img height="200px" width="200px" src="https://github.com/kks007/kks007/blob/main/octocat-1679512296043.png" > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kks007&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+ <img height="200px" width="200px" src="https://github.com/kks007/kks007/blob/main/octocat-1679512296043.png" > 
 
