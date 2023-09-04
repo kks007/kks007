@@ -37,9 +37,8 @@
 
 <div align = "center" > 
  
- ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=kks007&count_private=true&theme=holi&show_icons=true&rank_icon=github)
+ ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=kks007&count_private=true&theme=holi&show_icons=true&rank_icon=github&theme=blueberry)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kks007&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="kks007" />
 </div>
 
 <div align = "center"> 
