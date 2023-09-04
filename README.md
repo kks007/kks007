@@ -35,11 +35,11 @@
  <img height="200px" width="200px" src="https://github.com/kks007/kks007/blob/main/octocat-1679512296043.png" > 
 </div>
 
-<div> 
+<div align = "center" > 
  
  ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=kks007&count_private=true&theme=holi&show_icons=true&rank_icon=github)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kks007&show_icons=true&locale=en&layout=compact" alt="kks007" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kks007&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="kks007" />
 </div>
 
 <div align = "center"> 
