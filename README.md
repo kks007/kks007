@@ -1,6 +1,9 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Kaushal -->
 
 ### 🛠 &nbsp;Tech Stack
+
+<div align = "center">
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
@@ -21,6 +24,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=flat)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-1572B6?style=flat&logo=Arduino&logoColor=white)&nbsp;
+
+ 
+</div>
+
 
 
 <div align = "center"> 
