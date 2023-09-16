@@ -1,4 +1,6 @@
-<!-- ## 👋 &nbsp;Hey there! I'm Kaushal -->
+ ## 👋 &nbsp;Hello, There!
+Just a polymath exploring what I can. <br>
+Reach out for collaborating on projects, web ideas, sci-fi marathons, or just for the sake of it. 
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -21,12 +23,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=flat)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-1572B6?style=flat&logo=Arduino&logoColor=white)&nbsp;
 
  
 </div>
+<br>
+<br>
 
 
 
